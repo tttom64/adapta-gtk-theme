@@ -108,9 +108,9 @@ $fixed_base_color: #F9F5D7;                                     // = White
 // Selection (primary) colors
 //
 
-// Default: #00BCD4                                             // = Cyan500
+// Default: #076678                                             // = Cyan500
 $selected_bg_color: $key_selection_color;
-// Default: #4DD0E1                                             // = Cyan300
+// Default: #458588                                             // = Cyan300
 $secondary_selected_bg_color: $key_secondary_selection_color;
 
 
@@ -118,7 +118,7 @@ $secondary_selected_bg_color: $key_secondary_selection_color;
 // Accent (secondary) colors
 //
 
-// Default: #4DB6AC                                             // = Teal300
+// Default: #458588                                             // = Teal300
 $accent_color: $key_accent_color;
 $accent_label_color: if($variant == 'light',
                         mix($key_accent_color, $fg_color, 80%),
@@ -170,9 +170,9 @@ $warning_color: #D65D0E;                                        // = Orange500
 $error_color: #CC241D;                                          // = Red500
 $success_color: #98971A;                                        // = GreenA400
 
-// Default: #009688                                             // = Teal500
+// Default: #689D6A                                             // = Teal500
 $suggested_color: $key_suggestion_color;
-// Default: #FF5252                                             // = RedA200
+// Default: #FB4934                                             // = RedA200
 $destructive_color: $key_destruction_color;
 
 $info_bg_color: #689D6A;                                        // = TealA400
