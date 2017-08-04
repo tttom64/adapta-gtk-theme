@@ -70,8 +70,8 @@ $insensitive_fixed_fg_color: gtkopacity($fixed_fg_color, 0.3);
 // Background colors
 //
 
-$bg_color: if($variant == 'light', mix(#EBDBB2, #F9F5D7, 50%),  // = W _ 50
-                                   mix(#1D2021, #282828, 50%));                    // = BluGry900
+$bg_color: if($variant == 'light', mix(#EBDBB2, #F9F5D7, 75%),  // = W _ 50
+                                   mix(#1D2021, #282828, 75%));                    // = BluGry900
 $base_color: if($variant == 'light',
                 #F9F5D7,                                        // = White
                 mix(#282828, #3C3836, 85%));                    // = 900 _ 800
