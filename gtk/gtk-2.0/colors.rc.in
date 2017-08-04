@@ -4,7 +4,7 @@
 gtk-color-scheme = "base_color:#F9F5D7\nbg_color:#F2E5BC"
 gtk-color-scheme = "text_color:#282828\nfg_color:#282828"
 gtk-color-scheme = "selected_bg_color:#1D2021\nselected_fg_color:#F9F5D7"
-gtk-color-scheme = "tooltip_bg_color:#1D2021\ntooltip_fg_color:#CFD8DC"
+gtk-color-scheme = "tooltip_bg_color:#282828\ntooltip_fg_color:#CFD8DC"
 gtk-color-scheme = "link_color:#458588\nvisited_link_color:#8F3F71"
 gtk-color-scheme = "inverted_dark_color:#282828\ninverted_fg_color:#EBDBB2"
 gtk-color-scheme = "scroll_slider_color:#928374\nscroll_slider_prelight_color:#A89984"
