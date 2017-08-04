@@ -205,7 +205,7 @@
          transform="translate(0,-10.000003)"
          id="toggle-on-trough">
         <rect
-           style="fill:#00BCD4;fill-opacity:0.2;stroke:none"
+           style="fill:#458588;fill-opacity:0.2;stroke:none"
            id="rect2987-07"
            width="30"
            height="10"
@@ -236,7 +236,7 @@
            cy="477.36218"
            cx="35"
            id="path3757-8-5"
-           style="opacity:1;fill:#00BCD4;fill-opacity:1;stroke:url(#linearGradient4169-3);stroke-width:0.24699999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:#458588;fill-opacity:1;stroke:url(#linearGradient4169-3);stroke-width:0.24699999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <rect
            style="fill:#000000;fill-opacity:0;stroke:none;stroke-opacity:0"
            id="rect5155"
