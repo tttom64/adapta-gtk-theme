@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.92+devel unknown"
    sodipodi:docname="show-apps-hover.svg"
-   style="stroke:#ffffff">
+   style="stroke:#F9F5D7">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -50,7 +50,7 @@
      id="defs14" />
   <sodipodi:namedview
      pagecolor="#808080"
-     bordercolor="#666666"
+     bordercolor="#665C54"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -80,7 +80,7 @@
        id="grid4162" />
   </sodipodi:namedview>
   <path
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0"
+     style="fill:#F9F5D7;fill-opacity:1;fill-rule:evenodd;stroke-width:0"
      d="M 21 18 A 3 3 0 0 0 18 21 A 3 3 0 0 0 21 24 A 3 3 0 0 0 24 21 A 3 3 0 0 0 21 18 z M 32 18 A 3 3 0 0 0 29 21 A 3 3 0 0 0 32 24 A 3 3 0 0 0 35 21 A 3 3 0 0 0 32 18 z M 43 18 A 3 3 0 0 0 40 21 A 3 3 0 0 0 43 24 A 3 3 0 0 0 46 21 A 3 3 0 0 0 43 18 z M 21 29 A 3 3 0 0 0 18 32 A 3 3 0 0 0 21 35 A 3 3 0 0 0 24 32 A 3 3 0 0 0 21 29 z M 32 29 A 3 3 0 0 0 29 32 A 3 3 0 0 0 32 35 A 3 3 0 0 0 35 32 A 3 3 0 0 0 32 29 z M 43 29 A 3 3 0 0 0 40 32 A 3 3 0 0 0 43 35 A 3 3 0 0 0 46 32 A 3 3 0 0 0 43 29 z M 21 40 A 3 3 0 0 0 18 43 A 3 3 0 0 0 21 46 A 3 3 0 0 0 24 43 A 3 3 0 0 0 21 40 z M 32 40 A 3 3 0 0 0 29 43 A 3 3 0 0 0 32 46 A 3 3 0 0 0 35 43 A 3 3 0 0 0 32 40 z M 43 40 A 3 3 0 0 0 40 43 A 3 3 0 0 0 43 46 A 3 3 0 0 0 46 43 A 3 3 0 0 0 43 40 z "
      id="path4267" />
 </svg>
