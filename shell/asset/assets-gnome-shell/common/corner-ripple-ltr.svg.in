@@ -13,8 +13,8 @@
    height="48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="corner-ripple-ltr.svg">
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="rippleltr.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.5"
-     inkscape:cx="3.6000003"
+     inkscape:cx="-46.266667"
      inkscape:cy="33.6"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="734"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -79,7 +79,7 @@
      transform="translate(0,-1004.3622)">
     <path
        sodipodi:type="arc"
-       style="opacity:0.2;fill:#4DB6AC;fill-opacity:1;stroke:none"
+       style="opacity:0.2;fill:#458588;fill-opacity:1;stroke:none"
        id="corner-ripple-ltr"
        sodipodi:cx="0"
        sodipodi:cy="0"
