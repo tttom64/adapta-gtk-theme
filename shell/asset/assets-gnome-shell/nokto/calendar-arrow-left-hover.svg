@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="calendar-arrow-left.svg"
+   sodipodi:docname="calendar-arrow-left-hover.svg"
    inkscape:export-filename="/home/sam/dev/RESOURCES/gnome-icon-theme-symbolic/src/gnome-stencils.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
@@ -53,8 +53,8 @@
      bordercolor="#666666"
      borderopacity="1"
      inkscape:current-layer="layer12"
-     inkscape:cx="-9.1168916"
-     inkscape:cy="10.22232"
+     inkscape:cx="-27.855222"
+     inkscape:cy="10.045543"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -155,6 +155,6 @@
        d="m 291.0002,820 -5,-5 5,-5 z"
        id="path6400"
        sodipodi:nodetypes="cccc"
-       style="fill:#d5c4a1;fill-opacity:1;stroke:none;opacity:0.75" />
+       style="fill:#d5c4a1;fill-opacity:1;stroke:none" />
   </g>
 </svg>
