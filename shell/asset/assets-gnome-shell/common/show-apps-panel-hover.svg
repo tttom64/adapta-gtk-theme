@@ -50,7 +50,7 @@
      id="defs14" />
   <sodipodi:namedview
      pagecolor="#808080"
-     bordercolor="#666666"
+     bordercolor="#665C54"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -80,7 +80,7 @@
        id="grid4162" />
   </sodipodi:namedview>
   <path
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2"
+     style="fill:#F9F5D7;fill-opacity:1;stroke:none;stroke-width:2"
      d="M 10 8 A 2 2 0 0 0 8 10 A 2 2 0 0 0 10 12 A 2 2 0 0 0 12 10 A 2 2 0 0 0 10 8 z M 16 8 A 2 2 0 0 0 14 10 A 2 2 0 0 0 16 12 A 2 2 0 0 0 18 10 A 2 2 0 0 0 16 8 z M 22 8 A 2 2 0 0 0 20 10 A 2 2 0 0 0 22 12 A 2 2 0 0 0 24 10 A 2 2 0 0 0 22 8 z M 10 14 A 2 2 0 0 0 8 16 A 2 2 0 0 0 10 18 A 2 2 0 0 0 12 16 A 2 2 0 0 0 10 14 z M 16 14 A 2 2 0 0 0 14 16 A 2 2 0 0 0 16 18 A 2 2 0 0 0 18 16 A 2 2 0 0 0 16 14 z M 22 14 A 2 2 0 0 0 20 16 A 2 2 0 0 0 22 18 A 2 2 0 0 0 24 16 A 2 2 0 0 0 22 14 z M 10 20 A 2 2 0 0 0 8 22 A 2 2 0 0 0 10 24 A 2 2 0 0 0 12 22 A 2 2 0 0 0 10 20 z M 16 20 A 2 2 0 0 0 14 22 A 2 2 0 0 0 16 24 A 2 2 0 0 0 18 22 A 2 2 0 0 0 16 20 z M 22 20 A 2 2 0 0 0 20 22 A 2 2 0 0 0 22 24 A 2 2 0 0 0 24 22 A 2 2 0 0 0 22 20 z "
      id="path814" />
 </svg>
