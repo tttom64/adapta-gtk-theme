@@ -13,27 +13,27 @@
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="media-control-hover.svg">
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="media hover.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#665C54"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.65625"
-     inkscape:cx="-18.923457"
-     inkscape:cy="15.841975"
+     inkscape:zoom="17.89864"
+     inkscape:cx="26.48951"
+     inkscape:cy="14.85056"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="734"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -78,7 +78,7 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <circle
-       style="opacity:0.2;fill:#4DB6AC;fill-opacity:1;stroke:none"
+       style="opacity:0.33;fill:#458588;fill-opacity:1;stroke:none"
        id="dash-placeholder"
        inkscape:label="#path2987"
        cx="16"
