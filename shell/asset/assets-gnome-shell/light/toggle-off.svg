@@ -14,7 +14,7 @@
    height="20"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="toggle-off.svg">
   <defs
      id="defs4">
@@ -118,7 +118,7 @@
       <stop
          id="stop4996"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0.30000001" />
+         style="stop-color:#f9f5d7;stop-opacity:0.3019608" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -128,14 +128,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.364584"
-     inkscape:cx="1.8183144"
-     inkscape:cy="10.298253"
+     inkscape:zoom="20.31459"
+     inkscape:cx="7.5712219"
+     inkscape:cy="6.121365"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="717"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -156,7 +156,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -197,7 +197,7 @@
            x="0"
            y="567.36218" />
         <rect
-           style="opacity:0.2;fill:#263238;fill-opacity:1;stroke:none"
+           style="opacity:0.2;fill:#32302f;fill-opacity:1;stroke:none"
            id="rect2987"
            width="30"
            height="10"
@@ -225,7 +225,7 @@
                  id="path4986"
                  style="fill:#000000;fill-opacity:0.18039216;stroke:none;filter:url(#filter4988)" />
               <ellipse
-                 style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient4172);stroke-width:0.24699999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 style="fill:#f9f5d7;fill-opacity:1;stroke:url(#linearGradient4172);stroke-width:0.24699999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  id="path3757"
                  cx="15"
                  cy="512.36218"
