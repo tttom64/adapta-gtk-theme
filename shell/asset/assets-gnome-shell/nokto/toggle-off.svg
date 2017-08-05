@@ -14,7 +14,7 @@
    height="20"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="toggle-off.svg">
   <defs
      id="defs4">
@@ -118,7 +118,7 @@
       <stop
          id="stop4996"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0.30000001" />
+         style="stop-color:#f9f5d7;stop-opacity:0.3019608" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -128,16 +128,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.364584"
-     inkscape:cx="14.485518"
-     inkscape:cy="8.9874987"
+     inkscape:zoom="11.313709"
+     inkscape:cx="11.470857"
+     inkscape:cy="11.028265"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="toggle-off-dark"
      showgrid="true"
      inkscape:window-width="1196"
      inkscape:window-height="710"
-     inkscape:window-x="84"
-     inkscape:window-y="32"
+     inkscape:window-x="205"
+     inkscape:window-y="42"
      inkscape:window-maximized="0"
      inkscape:document-rotation="0">
     <inkscape:grid
@@ -156,7 +156,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
@@ -198,7 +198,7 @@
            x="0"
            y="567.36218" />
         <rect
-           style="opacity:0.2;fill:#cfd8dc;fill-opacity:1;stroke:none"
+           style="opacity:0.2;fill:#d5c4a1;fill-opacity:1;stroke:none"
            id="rect2987-6"
            width="30"
            height="10"
@@ -224,7 +224,7 @@
            cy="512.36218"
            cx="165"
            id="path3757-68"
-           style="fill:#2f3d44;fill-opacity:1;stroke:url(#linearGradient5517);stroke-width:0.24699999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:#32302f;fill-opacity:1;stroke:url(#linearGradient5517);stroke-width:0.24699999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:1" />
         <rect
            style="fill:#000000;fill-opacity:0;stroke:none;stroke-opacity:0"
            id="rect4998-8"
