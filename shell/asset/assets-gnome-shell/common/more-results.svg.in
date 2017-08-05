@@ -20,7 +20,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#7a7a7a"
-     bordercolor="#666666"
+     bordercolor="#665C54"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
@@ -88,11 +88,11 @@
       <circle
          cy="401.99106"
          cx="153.99985"
-         style="fill:#4DB6AC;fill-opacity:1;stroke:none"
+         style="fill:#689D6A;fill-opacity:1;stroke:none"
          id="path3757"
          r="12" />
       <path
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         style="fill:#F9F5D7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
          d="m 153.19944,395.99108 0,5.19959 -5.1996,0 0,1.6008 5.1996,0 0,5.1996 1.6008,0 0,-5.1996 5.19959,0 0,-1.6008 -5.19959,0 0,-5.19959 z"
          id="rect3757"
          inkscape:connector-curvature="0"
