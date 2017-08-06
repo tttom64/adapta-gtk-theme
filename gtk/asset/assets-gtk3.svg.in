@@ -1030,9 +1030,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.6937401"
-     inkscape:cx="239.20861"
-     inkscape:cy="718.23541"
+     inkscape:zoom="3.8095238"
+     inkscape:cx="99.758497"
+     inkscape:cy="634.29203"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -3335,7 +3335,7 @@
       <path
          inkscape:connector-curvature="0"
          d="m 204.01005,560.37222 c 7.97992,7.97991 7.97992,7.97991 7.97992,7.97991 m -7.97992,0 c 7.97992,-7.97991 7.97992,-7.97991 7.97992,-7.97991"
-         style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#f9f5d7;stroke-width:1.99989319;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#d5c4a1;stroke-width:1.99989319;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path4778" />
       <rect
          y="556.36218"
@@ -3353,7 +3353,7 @@
       <path
          inkscape:connector-curvature="0"
          d="m 204.01005,560.37222 c 7.97992,7.97991 7.97992,7.97991 7.97992,7.97991 m -7.97992,0 c 7.97992,-7.97991 7.97992,-7.97991 7.97992,-7.97991"
-         style="fill:#cfd8dc;fill-opacity:0;fill-rule:evenodd;stroke:#f9f5d7;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#cfd8dc;fill-opacity:0;fill-rule:evenodd;stroke:#d5c4a1;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path4778-0" />
       <rect
          y="556.36218"
@@ -5174,7 +5174,7 @@
       <path
          inkscape:connector-curvature="0"
          d="m 9.01005,260.37222 c 7.97992,7.97991 7.97992,7.97991 7.97992,7.97991 m -7.97992,0 c 7.97992,-7.97991 7.97992,-7.97991 7.97992,-7.97991"
-         style="opacity:0.75;fill:#cfd8dc;fill-opacity:0;fill-rule:evenodd;stroke:#f9f5d7;stroke-width:1.99989319;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.75;fill:#cfd8dc;fill-opacity:0;fill-rule:evenodd;stroke:#d5c4a1;stroke-width:1.99989319;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path4778-6-1" />
       <rect
          y="254.36218"
